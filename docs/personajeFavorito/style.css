@@ -2,8 +2,8 @@
   PALETA DE COLORES
 ======================================*/
 :root {
-    --color-primario: #5b5ff5;
-    --color-secundario: #ff8f70;
+    --color-primario: #db5bf5dc;
+    --color-secundario: #be5dc8d6;
 }
 
 /*======================================
@@ -84,7 +84,7 @@ main {
   TARJETAS
 ======================================*/
 .card {
-    background: white;
+    background: rgb(248, 249, 246);
 
     margin-bottom: 30px;
     padding: 30px;
