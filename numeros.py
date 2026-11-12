@@ -1,0 +1,12 @@
+input("================bienvenida a mi calculadora================")
+a = input("ingresa un número: 2")
+b = input("ingresa un segundo número: 22")
+a = int(a)
+b = int(b)
+print("la multiplicación es: ",a*b)
+print("la división es: ",a/b)
+print("la suma es: ",a+b)
+print("la resta es: ",a-b)
+print("la potensia es: ",a**b)
+print("================grasias================")
+
